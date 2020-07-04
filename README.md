@@ -23,10 +23,8 @@ The python libraries used on the main code are the following: <br />
 ## Preview of the Results:
 Model prediction for the following test images: <br />
 
-<img src="Validation Data/Validation/Frenkie.jpeg" width="100"/>
-<img src="Validation Data/Validation/Messi close up.jpg" width="100"/>
-<img src="Validation Data/Validation/Messi in game.jpg" width="100"/>
-<img src="Validation Data/Validation/Fake Twin.jpg" width="100"/>
+<img src="Validation Data/Validation/Frenkie.jpeg" width="200"/> <img src="Validation Data/Validation/Messi close up.jpg" width="200"/>
+<img src="Validation Data/Validation/Messi in game.jpg" width="200"/> <img src="Validation Data/Validation/Fake Twin.jpg" width="200"/>
 <img src="Validation Data/Validation/cr7.jpg" width="100"/>
 
 Table with Probablities and Result: <br />
